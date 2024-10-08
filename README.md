@@ -1,33 +1,12 @@
-<<<<<<< HEAD
-# tawk-fe-test
-=======
-# README #
+# tawk.to Frontend Developer Test
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### What is the test?
 
-### What is this repository for? ###
+You will be building a simple knowledge base site in Vue js. A basic structure has been set up, you will just need to build on top of it.
+But if you want to move things around, feel free to do so. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Instructions
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
->>>>>>> e18e6d7 (Initial commit)
+- Clone this repo
+- Complete this task by pushing it to your repo and send the link to us
+- Please incorporate the included modules into your solution. Other modules are up to you.
